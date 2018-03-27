@@ -1,0 +1,26 @@
+site_name: Mkdocs Test
+theme:
+  name: material
+  language: 'ja'
+
+extra:
+    search:
+        language: 'jp'
+
+extra_javascript: 
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML
+
+extra_css:
+  - "https://fonts.googleapis.com/css?family=Open+Sans:600,800"
+  - "https://fonts.googleapis.com/earlyaccess/notosansjp.css"
+  - "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"
+
+markdown_extensions:
+  - admonition
+  - fontawesome_markdown
+  - mdx_math
+  - pymdownx.emoji
+  - codehilite:
+      noclasses: true
+      pygments_style: monokai
+      use_pygments: true
