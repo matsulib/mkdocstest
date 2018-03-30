@@ -1,0 +1,49 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\n\n\n\n\u3084\u3063\u3066\u307f\u308b\n\n\n\u6570\u5f0f\n\n\n\n\n\nP\\cdot Q = \\|P\\|\\|Q\\|\\cos\\alpha\n\n\n\n\n\n\u7d75\u6587\u5b57\n\n\n\n\n\u8b66\u544a\u6587\n\n\n\n\nNote\n\n\n\u3053\u308c\u306f\u30ce\u30fc\u30c8\u3067\u3059\u3002\n\n\n\n\n\n\nTip\n\n\n\u30d2\u30f3\u30c8\u3067\u3059\u3002\n\n\n\n\n\n\nWarning\n\n\n\u3053\u308c\u306f\u8b66\u544a\u3067\u3059\n\n\n\n\n\n\nDanger\n\n\n\u3053\u308c\u306f\u5371\u967a\u3067\u3059\u3002\n\n\n\n\n\n\nSuccess\n\n\n\u3053\u308c\u306f\u6210\u529f\u3067\u3059\u3002\n\n\n\n\n\n\nFailure\n\n\n\u3053\u308c\u306f\u5931\u6557\u3067\u3059\u3002\n\n\n\n\n\n\nBug\n\n\n\u3053\u308c\u306f\u30d0\u30b0\u3067\u3059\u3002\n\n\n\n\n\n\nSummary\n\n\n\u3053\u308c\u306f\u6982\u8981\u3067\u3059\u3002\n\n\n\n\n\u53c2\u8003URL\n\n\nMkDocs\u306b\u3088\u308b\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u4f5c\u6210",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/#_1",
+            "text": "",
+            "title": "\u3084\u3063\u3066\u307f\u308b"
+        },
+        {
+            "location": "/#_2",
+            "text": "P\\cdot Q = \\|P\\|\\|Q\\|\\cos\\alpha",
+            "title": "\u6570\u5f0f"
+        },
+        {
+            "location": "/#_3",
+            "text": "",
+            "title": "\u7d75\u6587\u5b57"
+        },
+        {
+            "location": "/#_4",
+            "text": "Note  \u3053\u308c\u306f\u30ce\u30fc\u30c8\u3067\u3059\u3002    Tip  \u30d2\u30f3\u30c8\u3067\u3059\u3002    Warning  \u3053\u308c\u306f\u8b66\u544a\u3067\u3059    Danger  \u3053\u308c\u306f\u5371\u967a\u3067\u3059\u3002    Success  \u3053\u308c\u306f\u6210\u529f\u3067\u3059\u3002    Failure  \u3053\u308c\u306f\u5931\u6557\u3067\u3059\u3002    Bug  \u3053\u308c\u306f\u30d0\u30b0\u3067\u3059\u3002    Summary  \u3053\u308c\u306f\u6982\u8981\u3067\u3059\u3002",
+            "title": "\u8b66\u544a\u6587"
+        },
+        {
+            "location": "/#url",
+            "text": "MkDocs\u306b\u3088\u308b\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u4f5c\u6210",
+            "title": "\u53c2\u8003URL"
+        }
+    ]
+}
