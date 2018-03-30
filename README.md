@@ -20,5 +20,5 @@ mkdocs serve
 mkdocs gh-deploy
 ```
 
-* [generated page](https://matsulib.github.io/mkdocstest)
+* [generated page](https://matsulib.github.io/mkdocstest/)
 * [generated source code](https://github.com/matsulib/mkdocstest.github.io/tree/gh-pages)
